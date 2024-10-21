@@ -220,15 +220,9 @@ Keep this guide handy for top-to-bottom SlopTop excellence. Get yours today!
   - **Electrum-LTC:** [electrum-ltc.org](https://electrum-ltc.org)
   - **Tor Project:** [torproject.org](https://www.torproject.org)
 
-Keep this guide handy for top-to-bottom SlopTop excellence. Get yours today!
-
-  _____                      _             _             
- |  __ \                    | |           | |            
- | |__) |___  ___ ___  _ __ | |_ _ __ ___ | | _____ _ __ 
- |  _  // _ \/ __/ _ \| '_ \| __| '__/ _ \| |/ / _ \ '__|
- | | \ \  __/ (_| (_) | | | | |_| | | (_) |   <  __/ |   
- |_|  \_\___|\___\___/|_| |_|\__|_|  \___/|_|\_\___|_|   
+Keep this guide handy for top-to-bottom SlopTop excellence. Get yours 
                                                         
+---
 
 ### Short and Sweet: SlopTop at a Glance
 
