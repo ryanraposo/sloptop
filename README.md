@@ -220,36 +220,11 @@ Keep this guide handy for top-to-bottom SlopTop excellence. Get yours today!
   - **Electrum-LTC:** [electrum-ltc.org](https://electrum-ltc.org)
   - **Tor Project:** [torproject.org](https://www.torproject.org)
 
-Keep this guide handy for top-to-bottom SlopTop excellence. Get yours 
-                                                        
----
-
-### Short and Sweet: SlopTop at a Glance
-
-- **Default Login:** `user` / `changeme` (**change immediately!**)
-- **Virtual Machines:** Start **Whonix-Gateway** before **Whonix-Workstation**.
-- **Electrum-LTC:** Set up your wallet in **Whonix-Workstation**.
-- **Stay Secure:** Update regularly, use strong passwords, and keep your seed phrase safe.
-- **Browse Safely:** Use **Tor Browser** within **Whonix** for anonymity.
-- **Need Help?** Refer to the support links provided.
-
-Your secure and private computing experience starts now!
-
-### Shortcuts & Tips
-
-- **Change Passwords**
-  - **Open Terminal:** `Ctrl + Alt + T`
-  - **Command:** `passwd`
-- **Open VirtualBox**
-  - **Applications Menu > System Tools > VirtualBox**
-- **Launch Tor Browser**
-  - In **Whonix-Workstation**, click the Tor Browser icon.
-- **Software Updates**
-  - **Ubuntu MATE:** **Applications Menu > Administration > Software Updater**
-  - **Whonix:** Follow automatic prompts or use `sudo apt-get update && sudo apt-get dist-upgrade` in the terminal.
-
-Stay safe, stay anonymous, and enjoy your SlopTop!
+Keep this guide handy for top-to-bottom SlopTop excellence.
 
 For any questions or concerns, don't hesitate to reach out.
 
-Get yours today!
+Get yours (today!) queen dk
+                                                        
+---
+
