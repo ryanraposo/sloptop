@@ -222,9 +222,13 @@ Keep this guide handy for top-to-bottom SlopTop excellence. Get yours today!
 
 Keep this guide handy for top-to-bottom SlopTop excellence.
 
-For any questions or concerns, don't hesitate to reach out.
+For any questions and concerns, don't hesitate to reach out.
 
-Get yours (today!) queen dk
-                                                        
 ---
 
+raposo.ryan@gmail.com
+- Pre-configured
+- BYOM (Bring Your Own Machine)
+- Support
+
+Everything is negotiable.
