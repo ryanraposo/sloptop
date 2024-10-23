@@ -230,15 +230,12 @@ Keep this guide handy for top-to-bottom SlopTop excellence. Get yours today!
 
 #### D. Contact for Assistance
 
-- **Technical Support:** [Your Contact Information]
 - **Useful Resources:**
   - **Whonix:** [whonix.org](https://www.whonix.org)
   - **Electrum-LTC:** [electrum-ltc.org](https://electrum-ltc.org)
   - **Tor Project:** [torproject.org](https://www.torproject.org)
 
 Keep this guide handy for top-to-bottom SlopTop excellence.
-
-For any questions and concerns, don't hesitate to reach out.
 
 ---
 
