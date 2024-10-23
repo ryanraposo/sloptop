@@ -27,14 +27,14 @@ Everything is negotiable.
 
 ### Table of Contents
 
-1. Overview
-2. Getting Started
-3. Setting Up Whonix
-4. Using Tor Safely
-5. Managing Litecoin
-6. Good Practices
-7. Shutting Down Properly
-8. Need Help?
+1. [Overview](#1-overview)
+2. [Getting Started](#2-getting-started)
+3. [Setting Up Whonix](#3-setting-up-whonix)
+4. [Using Tor Safely](#4-using-tor-safely)
+5. [Managing Litecoin](#5-managing-litecoin)
+6. [Good Practices](#6-good-practices)
+7. [Shutting Down Properly](#7-shutting-down-properly)
+8. [Need Help?](#8-need-help)
 
 ### 1. Overview
 
