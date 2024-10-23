@@ -21,7 +21,7 @@ Everything is negotiable.
 
 <a href="https://www.buymeacoffee.com/ryanraposo" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;" >
-</a
+</a>
 
 ---
 
