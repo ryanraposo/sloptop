@@ -23,7 +23,7 @@ Everything is negotiable.
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;" >
 </a
 
----  
+---
 
 ### Table of Contents
 
