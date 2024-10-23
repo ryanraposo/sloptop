@@ -12,8 +12,6 @@ Welcome to SlopTop—your secure workstation designed for private browsing and m
 
 For any questions and concerns, don't hesitate to reach out.
 
----
-
 raposo.ryan@gmail.com
 - Pre-configured
 - BYOM (Bring Your Own Machine)
@@ -23,7 +21,9 @@ Everything is negotiable.
 
 <a href="https://www.buymeacoffee.com/ryanraposo" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;" >
-</a>
+</a
+
+---  
 
 ### Table of Contents
 
