@@ -5,9 +5,25 @@
 (_.--'                     /      (_/  `-            /      
 ```
 
+
 ## SlopTop
 
 Welcome to SlopTop—your secure workstation designed for private browsing and managing Litecoin. This guide will walk you through setting up your system for a safe and anonymous experience.
+
+For any questions and concerns, don't hesitate to reach out.
+
+---
+
+raposo.ryan@gmail.com
+- Pre-configured
+- BYOM (Bring Your Own Machine)
+- Support
+
+Everything is negotiable.
+
+<a href="https://www.buymeacoffee.com/ryanraposo" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;" >
+</a>
 
 ### Table of Contents
 
